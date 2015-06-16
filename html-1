@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    super heros
+  </title>
+  <style>
+  body {
+    background-color: #000000;
+}
+ul {
+    color: green;
+    text-align: center;  }
+p {
+    color:#4747D1;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;  }
+
+h2 { color: blue;
+    text-align: center;}
+    </style>
+</head>
+
+<body>
+    <h2> Which one is your favorite?</h2>
+  <ul>
+		<li>Superman</li>
+    <a href=https://en.wikipedia.org/wiki/Superman> more info </a>
+    <img src=https://upload.wikimedia.org/wikipedia/en/7/72/Superman.jpg />
+    <li>Batman</li>
+    <a href=https://en.wikipedia.org/wiki/Batman> more info </a>
+    <img src=https://upload.wikimedia.org/wikipedia/en/7/75/Comic_Art_-_Batman_by_Jim_Lee_%282002%29.png />
+    <li>Ironman</li>
+    <a href=https://en.wikipedia.org/wiki/Iron_Man> more info </a>
+    <img src=https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg />
+  </ul>
+  <p>My favoirte super hero is batman and ironman <br>because they are both super heros with out power  </p>
+
+
+</body>
+</html>
